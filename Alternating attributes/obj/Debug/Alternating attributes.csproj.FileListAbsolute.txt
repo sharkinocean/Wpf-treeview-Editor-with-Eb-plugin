@@ -1,0 +1,17 @@
+C:\Users\Lamev\Documents\Visual Studio 2017\Projects\Alternating attributes\Alternating attributes\bin\Debug\Alternating attributes.dll
+C:\Users\Lamev\Documents\Visual Studio 2017\Projects\Alternating attributes\Alternating attributes\bin\Debug\Alternating attributes.pdb
+C:\Users\Lamev\Documents\Visual Studio 2017\Projects\Alternating attributes\Alternating attributes\obj\Debug\View\MainWindow.baml
+C:\Users\Lamev\Documents\Visual Studio 2017\Projects\Alternating attributes\Alternating attributes\obj\Debug\View\MainWindow.g.cs
+C:\Users\Lamev\Documents\Visual Studio 2017\Projects\Alternating attributes\Alternating attributes\obj\Debug\Alternating attributes_MarkupCompile.cache
+C:\Users\Lamev\Documents\Visual Studio 2017\Projects\Alternating attributes\Alternating attributes\obj\Debug\Alternating attributes.g.resources
+C:\Users\Lamev\Documents\Visual Studio 2017\Projects\Alternating attributes\Alternating attributes\obj\Debug\Alternating attributes.csproj.CoreCompileInputs.cache
+C:\Users\Lamev\Documents\Visual Studio 2017\Projects\Alternating attributes\Alternating attributes\obj\Debug\Alternating attributes.dll
+C:\Users\Lamev\Documents\Visual Studio 2017\Projects\Alternating attributes\Alternating attributes\obj\Debug\Alternating attributes.pdb
+C:\Users\Lamev\Documents\Visual Studio 2017\Projects\Alternating attributes\Alternating attributes\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Lamev\Documents\Visual Studio 2017\Projects\Alternating attributes\Alternating attributes\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Lamev\Documents\Visual Studio 2017\Projects\Alternating attributes\Alternating attributes\obj\Debug\Alternating attributes.csprojAssemblyReference.cache
+C:\Users\Lamev\Documents\Visual Studio 2017\Projects\Alternating attributes\Alternating attributes\obj\Debug\Alternating attributes.csproj.CopyComplete
+C:\Users\Lamev\Documents\Visual Studio 2017\Projects\Alternating attributes\Alternating attributes\obj\Debug\View\ImportWindow.g.cs
+C:\Users\Lamev\Documents\Visual Studio 2017\Projects\Alternating attributes\Alternating attributes\obj\Debug\Alternating attributes_MarkupCompile.lref
+C:\Users\Lamev\Documents\Visual Studio 2017\Projects\Alternating attributes\Alternating attributes\obj\Debug\View\ImportWindow.baml
+C:\Users\Lamev\Documents\Visual Studio 2017\Projects\Alternating attributes\Alternating attributes\obj\Debug\GeneratedInternalTypeHelper.g.cs
